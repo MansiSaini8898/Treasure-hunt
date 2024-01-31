@@ -1,2 +1,2 @@
 # Treasure-hunt
-some project as a beginner in coding
+some projects as a beginner in coding
